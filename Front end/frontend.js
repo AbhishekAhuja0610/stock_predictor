@@ -20,7 +20,4 @@ function userSubmitEventHandler(e) {
         console.log(json)
        document.getElementById("demo").innerHTML = json;
     })
-    
-
-   
 }
